@@ -1,8 +1,6 @@
-# # SMS Spam Detection
+# # Email Spam Detection
 
 This project builds a machine learning model to classify SMS messages as spam or ham (legitimate). It uses the SMS Spam Collection dataset from Kaggle, applies text preprocessing, and compares two classification models to find the best performer for spam detection.
-
-## What I Did
 
 ### 1. Data Collection
 - Uploaded my Kaggle API credentials (kaggle.json) to authenticate with Kaggle.
